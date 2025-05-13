@@ -85,10 +85,5 @@ Le modèle OSI fonctionne exactement comme ça avec les **données** que tu envo
 
 ---
 
-## 👨‍💻 Auteur
-
-Ce document est conçu pour les débutants en réseau souhaitant comprendre le modèle OSI de manière claire et imagée.
-
-Contributions bienvenues ! 🚀
 
 <img width="915" alt="Image" src="https://github.com/user-attachments/assets/8f51bde1-9ed1-43f9-8c2b-75758abedc79" />
